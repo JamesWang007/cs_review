@@ -1,0 +1,5 @@
+C:\Users\hwang11\Documents\Visual Studio 2013\Projects\CSharp\cs_review_02\cs_review_02\bin\Debug\cs_review_02.exe.config
+C:\Users\hwang11\Documents\Visual Studio 2013\Projects\CSharp\cs_review_02\cs_review_02\bin\Debug\cs_review_02.exe
+C:\Users\hwang11\Documents\Visual Studio 2013\Projects\CSharp\cs_review_02\cs_review_02\bin\Debug\cs_review_02.pdb
+C:\Users\hwang11\Documents\Visual Studio 2013\Projects\CSharp\cs_review_02\cs_review_02\obj\Debug\cs_review_02.exe
+C:\Users\hwang11\Documents\Visual Studio 2013\Projects\CSharp\cs_review_02\cs_review_02\obj\Debug\cs_review_02.pdb
